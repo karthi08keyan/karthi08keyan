@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @karthi08keyan
-- 👀 I’m interested in web development
+- Hi there
+- 👋  I’m Full Stack Developer
+- 👀 I’m interested in React.js and .net
+- 💻 My current side project is E-Commerce Website,
 - 🌱 I’m currently learning C-Sharp
-- 📫 Ping me : kaarthikeyan0812@gmail.com
+- 🎓 M. Sc. CyberSecurity from Bharathiar University
+- 📫 Reach out to me via email kaarthikeyan0812@gmail.com
 - 
 
 <!---
